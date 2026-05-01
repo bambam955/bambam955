@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hey, I'm Bennett 👋
 
 <!--
 **bambam955/bambam955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineer who loves to work with embedded systems and build backend and infrastructure.
+
+## 📫 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/bennett-a-moore](https://www.linkedin.com/in/bennett-a-moore)
+- Email: [hi@bemoore.life](mailto:hi@bemoore.life)
