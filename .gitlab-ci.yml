@@ -1,0 +1,18 @@
+workflow:
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+
+stages:
+  - check
+
+default:
+  image: node:24-slim
+
+include:
+  - component: $CI_SERVER_FQDN/firstfruitslabs/components/static-site-validator/all@~latest
+    inputs:
+      stage: check
+      eslint-job-name: check:eslint
+      markdownlint-job-name: check:markdownlint
+      link-checker-job-prefix: check:links
+      link-checker-backend: lychee
