@@ -8,6 +8,12 @@ This repository, **bambam955/bambam955**, is special because its `README.md` fil
 
 I'm a software engineer who loves to work with embedded systems and build backend and infrastructure.
 
+<!-- 
+## Contributor Stats
+
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/bambam955/banner.svg)
+-->
+
 ## 📫 Contact
 
 - LinkedIn: [https://www.linkedin.com/in/bennett-a-moore](https://www.linkedin.com/in/bennett-a-moore)
