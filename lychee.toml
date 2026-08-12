@@ -1,0 +1,5 @@
+# Filter files and links
+exclude = [
+    '^https://(www\.)?linkedin\.com',
+]
+include_mail = false
